@@ -1,0 +1,2 @@
+Gebe dein Bot Token in der "Secret.py" an und Editiere in der "Main.py" die Variablen.
+Um Bot Rechte zu bekommen sprich Rechte auf alle Commands Trage in "rechte" deine Client ID ein(Zeile 8 in Main.py).
